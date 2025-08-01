@@ -10,7 +10,7 @@ Intelligence
     git clone https://github.com/juliisch/FAIN93.git
     ```
     ```bash
-    cd RILE92
+    cd FAIN93
     ```
 
 2. **Bibliotheken installieren**
