@@ -1,0 +1,14 @@
+certifi
+gensim
+kagglehub
+matplotlib
+nltk
+numpy
+pandas
+scipy
+seaborn
+spacy
+openpyxl
+transformers
+wefe
+wordcloud
