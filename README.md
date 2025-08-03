@@ -23,6 +23,14 @@ Intelligence
 
     Nach der Installation der Bibliotheken ist es erforderlich, das Programm neu zu starten, damit diese wirksam werden.
 
-2. **Führen Sie das Notebook aus**
+3. **spaCy-Modell installieren**
+
+    Installieren Sie das benötigte spaCy-Modell über das Terminal.
+    
+    ```bash
+    python -m spacy download en_core_web_sm
+    ```
+
+4. **Führen Sie das Notebook aus**
 
     Führen Sie das Notebook `FAIN93_JuliaSchmid.ipynb` aus.
