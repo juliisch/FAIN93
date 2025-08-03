@@ -25,4 +25,4 @@ Intelligence
 
 2. **Führen Sie das Notebook aus**
 
-    Führen Sie das Notebook `FAIN93_JuliaSchmid.ipynb` aus.b
+    Führen Sie das Notebook `FAIN93_JuliaSchmid.ipynb` aus.

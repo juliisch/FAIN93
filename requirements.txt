@@ -5,10 +5,9 @@ matplotlib
 nltk
 numpy
 pandas
-scipy
 seaborn
 spacy
-openpyxl
+torch
 transformers
 wefe
 wordcloud
